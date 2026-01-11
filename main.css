@@ -1,0 +1,116 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.mainpage {
+    background-image: url(webpage01.png);
+    height: 920px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.navbar {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 20px 60px;
+}
+
+.nav-links {
+    display: flex;
+    gap: 40px;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.teamname {
+    height: 400px;
+    width: 1400px;
+    margin-left: 165px;
+    margin-top: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.name {
+    font-size: 200px;
+    color: white;
+    font-weight: bolder;
+}
+
+.introsection {
+    background-image: url(webpage02.png);
+    height: 920px;
+    width: 100%;
+    display: flex;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.intro {
+    height: 500px;
+    width: 1000px;
+    margin-left: 200px;
+    margin-top: 300px;
+    color: white;
+    font-size: 40px;
+    align-items: center;
+    display: flex;
+    text-align: center;
+}
+
+.teamsection {
+    background-image: url(webpage03.png);
+    height: 920px;
+    width: 100%;
+    display: flex;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.team {
+    height: 450px;
+    width: 1200px;
+    /* background-color: white; */
+    margin-top: 350px;
+    margin-left: 150px;
+    display: flex;
+    gap: 120px;
+}
+
+.team1 {
+    background-image: url(team1.jpg);
+    height: 300px;
+    width: 250px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+}
+.team2 {
+    background-image: url(team2.jpeg);
+    height: 300px;
+    width: 250px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+.team3 {
+    background-image: url(team3.jpeg);
+    height: 300px;
+    width: 250px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+}
