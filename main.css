@@ -5,8 +5,8 @@
 
 .mainpage {
     background-image: url(webpage01.png);
-    height: 920px;
-    width: 100%;
+    height: 700px;
+    /* width: 100%; */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -32,9 +32,9 @@
 }
 
 .teamname {
-    height: 400px;
-    width: 1400px;
-    margin-left: 165px;
+    height: 20px;
+    /* width: 1400px; */
+    /* margin-left: 165px; */
     margin-top: 200px;
     display: flex;
     align-items: center;
@@ -42,28 +42,28 @@
 }
 
 .name {
-    font-size: 200px;
+    font-size: 170px;
     color: white;
     font-weight: bolder;
 }
 
 .introsection {
     background-image: url(webpage02.png);
-    height: 920px;
-    width: 100%;
+    height: 695px;
+    /* width: 100%; */
     display: flex;
     background-size: cover;
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
     background-position: center;
 }
 
 .intro {
-    height: 500px;
-    width: 1000px;
+    height: 340px;
+    width: 695px;
     margin-left: 200px;
-    margin-top: 300px;
+    margin-top: 245px;
     color: white;
-    font-size: 40px;
+    font-size: 33px;
     align-items: center;
     display: flex;
     text-align: center;
@@ -71,22 +71,22 @@
 
 .teamsection {
     background-image: url(webpage03.png);
-    height: 920px;
-    width: 100%;
+    height: 695px;
+    /* width: 100%; */
     display: flex;
     background-size: cover;
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
     background-position: center;
 }
 
 .team {
-    height: 450px;
-    width: 1200px;
+    height: 303px;
+    /* width: 1200px; */
     /* background-color: white; */
-    margin-top: 350px;
-    margin-left: 150px;
+    margin-top: 250px;
+    margin-left: 42px;
     display: flex;
-    gap: 120px;
+    gap: 105px;
 }
 
 .team1 {
